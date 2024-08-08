@@ -4,7 +4,7 @@
 ## Description
 497 Italians recorded in a relatively quiet environment in authentic English. The recorded script is designed by linguists and covers a wide range of topics including generic, interactive, on-board and home. The text is manually proofread with high accuracy. It matches with mainstream Android and Apple system phones.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1022?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/speechrecog/1022?source=Github
 
 
 ## Format
